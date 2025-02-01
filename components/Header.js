@@ -1,10 +1,10 @@
 
 const items = [
-        { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
-        { icon: 'fab fa-telegram', link: 'https://t.me/umutland' },
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/@umutxyp' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
-    { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
+        { icon: 'fab fa-instagram', link: 'https://instagram.com/cosmas' },
+        { icon: 'fab fa-telegram', link: 'https://t.me/cosmas' },
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/@cosmas' },
+    { icon: 'fab fa-facebook', link: 'https://facebook.com/nwagwu.cosmas.1' },
+    { icon: 'fab fa-github', link: 'https://github.com/uzo24' },
   ]
 
 const navItems = [
