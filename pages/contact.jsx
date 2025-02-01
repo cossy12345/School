@@ -17,25 +17,25 @@ export default function Home() {
             <a target="_blank" rel="norefferer" href="https://discord.com/users/518341959765458985">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
-                        <p className="font-semibold text-xl">@umutxyp</p>
+                        <p className="font-semibold text-xl">@cosmas</p>
                     </div>
                 </a>
                 <a target="_blank" rel="norefferer" href="https://instagram.com/umutxyp">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-instagram fa-2x" />
-                        <p className="font-semibold text-xl">@umutxyp</p>
+                        <p className="font-semibold text-xl">@cosmas</p>
                     </div>
                 </a>
                 <a target="_blank" rel="norefferer" href="https://t.me/umutxyp">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-telegram fa-2x" />
-                        <p className="font-semibold text-xl">@umutxyp</p>
+                        <p className="font-semibold text-xl">@cosmas</p>
                     </div>
                 </a>
                 <a href="mailto:umutbayraktar55@gmail.com">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
-                        <p className="font-semibold text-xl">umutbayraktar55@hotmail.com</p>
+                        <p className="font-semibold text-xl">uzomacosmas2@gmail.com</p>
                     </div>
                 </a>
             </div>
